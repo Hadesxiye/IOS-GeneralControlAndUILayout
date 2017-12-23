@@ -7,70 +7,70 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		280EDFB91FBD97B500244847 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 280EDFB81FBD97B500244847 /* AppDelegate.m */; };
-		280EDFBC1FBD97B500244847 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 280EDFBB1FBD97B500244847 /* ViewController.m */; };
-		280EDFBF1FBD97B500244847 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 280EDFBD1FBD97B500244847 /* Main.storyboard */; };
-		280EDFC11FBD97B500244847 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 280EDFC01FBD97B500244847 /* Assets.xcassets */; };
-		280EDFC41FBD97B500244847 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 280EDFC21FBD97B500244847 /* LaunchScreen.storyboard */; };
-		280EDFC71FBD97B500244847 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 280EDFC61FBD97B500244847 /* main.m */; };
-		280EDFD11FBD97B500244847 /* UIGesture____Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 280EDFD01FBD97B500244847 /* UIGesture____Tests.m */; };
-		280EDFDC1FBD97B500244847 /* UIGesture____UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 280EDFDB1FBD97B500244847 /* UIGesture____UITests.m */; };
-		280EDFEA1FBDB66200244847 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 280EDFE91FBDB66200244847 /* 1.png */; };
+		2806F2F31FBD2B2600382557 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2806F2F21FBD2B2600382557 /* AppDelegate.m */; };
+		2806F2F61FBD2B2600382557 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2806F2F51FBD2B2600382557 /* ViewController.m */; };
+		2806F2F91FBD2B2600382557 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2806F2F71FBD2B2600382557 /* Main.storyboard */; };
+		2806F2FB1FBD2B2600382557 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2806F2FA1FBD2B2600382557 /* Assets.xcassets */; };
+		2806F2FE1FBD2B2600382557 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2806F2FC1FBD2B2600382557 /* LaunchScreen.storyboard */; };
+		2806F3011FBD2B2600382557 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2806F3001FBD2B2600382557 /* main.m */; };
+		2806F30B1FBD2B2600382557 /* UIGesture____Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2806F30A1FBD2B2600382557 /* UIGesture____Tests.m */; };
+		2806F3161FBD2B2600382557 /* UIGesture____UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2806F3151FBD2B2600382557 /* UIGesture____UITests.m */; };
+		2806F3241FBD2F4A00382557 /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2806F3231FBD2F4A00382557 /* 2.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		280EDFCD1FBD97B500244847 /* PBXContainerItemProxy */ = {
+		2806F3071FBD2B2600382557 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 280EDFAC1FBD97B500244847 /* Project object */;
+			containerPortal = 2806F2E61FBD2B2600382557 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 280EDFB31FBD97B500244847;
+			remoteGlobalIDString = 2806F2ED1FBD2B2600382557;
 			remoteInfo = "UIGesture高级手势";
 		};
-		280EDFD81FBD97B500244847 /* PBXContainerItemProxy */ = {
+		2806F3121FBD2B2600382557 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 280EDFAC1FBD97B500244847 /* Project object */;
+			containerPortal = 2806F2E61FBD2B2600382557 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 280EDFB31FBD97B500244847;
+			remoteGlobalIDString = 2806F2ED1FBD2B2600382557;
 			remoteInfo = "UIGesture高级手势";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		280EDFB41FBD97B500244847 /* UIGesture高级手势.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "UIGesture高级手势.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		280EDFB71FBD97B500244847 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		280EDFB81FBD97B500244847 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		280EDFBA1FBD97B500244847 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		280EDFBB1FBD97B500244847 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		280EDFBE1FBD97B500244847 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		280EDFC01FBD97B500244847 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		280EDFC31FBD97B500244847 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		280EDFC51FBD97B500244847 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		280EDFC61FBD97B500244847 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		280EDFCC1FBD97B500244847 /* UIGesture高级手势Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "UIGesture高级手势Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		280EDFD01FBD97B500244847 /* UIGesture____Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIGesture____Tests.m"; sourceTree = "<group>"; };
-		280EDFD21FBD97B500244847 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		280EDFD71FBD97B500244847 /* UIGesture高级手势UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "UIGesture高级手势UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		280EDFDB1FBD97B500244847 /* UIGesture____UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIGesture____UITests.m"; sourceTree = "<group>"; };
-		280EDFDD1FBD97B500244847 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		280EDFE91FBDB66200244847 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		2806F2EE1FBD2B2600382557 /* UIGesture高级手势.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "UIGesture高级手势.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2806F2F11FBD2B2600382557 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		2806F2F21FBD2B2600382557 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		2806F2F41FBD2B2600382557 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		2806F2F51FBD2B2600382557 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		2806F2F81FBD2B2600382557 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		2806F2FA1FBD2B2600382557 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		2806F2FD1FBD2B2600382557 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		2806F2FF1FBD2B2600382557 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2806F3001FBD2B2600382557 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		2806F3061FBD2B2600382557 /* UIGesture高级手势Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "UIGesture高级手势Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2806F30A1FBD2B2600382557 /* UIGesture____Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIGesture____Tests.m"; sourceTree = "<group>"; };
+		2806F30C1FBD2B2600382557 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2806F3111FBD2B2600382557 /* UIGesture高级手势UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "UIGesture高级手势UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2806F3151FBD2B2600382557 /* UIGesture____UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIGesture____UITests.m"; sourceTree = "<group>"; };
+		2806F3171FBD2B2600382557 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2806F3231FBD2F4A00382557 /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		280EDFB11FBD97B500244847 /* Frameworks */ = {
+		2806F2EB1FBD2B2600382557 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		280EDFC91FBD97B500244847 /* Frameworks */ = {
+		2806F3031FBD2B2600382557 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		280EDFD41FBD97B500244847 /* Frameworks */ = {
+		2806F30E1FBD2B2600382557 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -80,57 +80,57 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		280EDFAB1FBD97B500244847 = {
+		2806F2E51FBD2B2600382557 = {
 			isa = PBXGroup;
 			children = (
-				280EDFB61FBD97B500244847 /* UIGesture高级手势 */,
-				280EDFCF1FBD97B500244847 /* UIGesture高级手势Tests */,
-				280EDFDA1FBD97B500244847 /* UIGesture高级手势UITests */,
-				280EDFB51FBD97B500244847 /* Products */,
+				2806F2F01FBD2B2600382557 /* UIGesture高级手势 */,
+				2806F3091FBD2B2600382557 /* UIGesture高级手势Tests */,
+				2806F3141FBD2B2600382557 /* UIGesture高级手势UITests */,
+				2806F2EF1FBD2B2600382557 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		280EDFB51FBD97B500244847 /* Products */ = {
+		2806F2EF1FBD2B2600382557 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				280EDFB41FBD97B500244847 /* UIGesture高级手势.app */,
-				280EDFCC1FBD97B500244847 /* UIGesture高级手势Tests.xctest */,
-				280EDFD71FBD97B500244847 /* UIGesture高级手势UITests.xctest */,
+				2806F2EE1FBD2B2600382557 /* UIGesture高级手势.app */,
+				2806F3061FBD2B2600382557 /* UIGesture高级手势Tests.xctest */,
+				2806F3111FBD2B2600382557 /* UIGesture高级手势UITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		280EDFB61FBD97B500244847 /* UIGesture高级手势 */ = {
+		2806F2F01FBD2B2600382557 /* UIGesture高级手势 */ = {
 			isa = PBXGroup;
 			children = (
-				280EDFE91FBDB66200244847 /* 1.png */,
-				280EDFB71FBD97B500244847 /* AppDelegate.h */,
-				280EDFB81FBD97B500244847 /* AppDelegate.m */,
-				280EDFBA1FBD97B500244847 /* ViewController.h */,
-				280EDFBB1FBD97B500244847 /* ViewController.m */,
-				280EDFBD1FBD97B500244847 /* Main.storyboard */,
-				280EDFC01FBD97B500244847 /* Assets.xcassets */,
-				280EDFC21FBD97B500244847 /* LaunchScreen.storyboard */,
-				280EDFC51FBD97B500244847 /* Info.plist */,
-				280EDFC61FBD97B500244847 /* main.m */,
+				2806F3231FBD2F4A00382557 /* 2.jpg */,
+				2806F2F11FBD2B2600382557 /* AppDelegate.h */,
+				2806F2F21FBD2B2600382557 /* AppDelegate.m */,
+				2806F2F41FBD2B2600382557 /* ViewController.h */,
+				2806F2F51FBD2B2600382557 /* ViewController.m */,
+				2806F2F71FBD2B2600382557 /* Main.storyboard */,
+				2806F2FA1FBD2B2600382557 /* Assets.xcassets */,
+				2806F2FC1FBD2B2600382557 /* LaunchScreen.storyboard */,
+				2806F2FF1FBD2B2600382557 /* Info.plist */,
+				2806F3001FBD2B2600382557 /* main.m */,
 			);
 			path = "UIGesture高级手势";
 			sourceTree = "<group>";
 		};
-		280EDFCF1FBD97B500244847 /* UIGesture高级手势Tests */ = {
+		2806F3091FBD2B2600382557 /* UIGesture高级手势Tests */ = {
 			isa = PBXGroup;
 			children = (
-				280EDFD01FBD97B500244847 /* UIGesture____Tests.m */,
-				280EDFD21FBD97B500244847 /* Info.plist */,
+				2806F30A1FBD2B2600382557 /* UIGesture____Tests.m */,
+				2806F30C1FBD2B2600382557 /* Info.plist */,
 			);
 			path = "UIGesture高级手势Tests";
 			sourceTree = "<group>";
 		};
-		280EDFDA1FBD97B500244847 /* UIGesture高级手势UITests */ = {
+		2806F3141FBD2B2600382557 /* UIGesture高级手势UITests */ = {
 			isa = PBXGroup;
 			children = (
-				280EDFDB1FBD97B500244847 /* UIGesture____UITests.m */,
-				280EDFDD1FBD97B500244847 /* Info.plist */,
+				2806F3151FBD2B2600382557 /* UIGesture____UITests.m */,
+				2806F3171FBD2B2600382557 /* Info.plist */,
 			);
 			path = "UIGesture高级手势UITests";
 			sourceTree = "<group>";
@@ -138,13 +138,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		280EDFB31FBD97B500244847 /* UIGesture高级手势 */ = {
+		2806F2ED1FBD2B2600382557 /* UIGesture高级手势 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 280EDFE01FBD97B500244847 /* Build configuration list for PBXNativeTarget "UIGesture高级手势" */;
+			buildConfigurationList = 2806F31A1FBD2B2600382557 /* Build configuration list for PBXNativeTarget "UIGesture高级手势" */;
 			buildPhases = (
-				280EDFB01FBD97B500244847 /* Sources */,
-				280EDFB11FBD97B500244847 /* Frameworks */,
-				280EDFB21FBD97B500244847 /* Resources */,
+				2806F2EA1FBD2B2600382557 /* Sources */,
+				2806F2EB1FBD2B2600382557 /* Frameworks */,
+				2806F2EC1FBD2B2600382557 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -152,71 +152,71 @@
 			);
 			name = "UIGesture高级手势";
 			productName = "UIGesture高级手势";
-			productReference = 280EDFB41FBD97B500244847 /* UIGesture高级手势.app */;
+			productReference = 2806F2EE1FBD2B2600382557 /* UIGesture高级手势.app */;
 			productType = "com.apple.product-type.application";
 		};
-		280EDFCB1FBD97B500244847 /* UIGesture高级手势Tests */ = {
+		2806F3051FBD2B2600382557 /* UIGesture高级手势Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 280EDFE31FBD97B500244847 /* Build configuration list for PBXNativeTarget "UIGesture高级手势Tests" */;
+			buildConfigurationList = 2806F31D1FBD2B2600382557 /* Build configuration list for PBXNativeTarget "UIGesture高级手势Tests" */;
 			buildPhases = (
-				280EDFC81FBD97B500244847 /* Sources */,
-				280EDFC91FBD97B500244847 /* Frameworks */,
-				280EDFCA1FBD97B500244847 /* Resources */,
+				2806F3021FBD2B2600382557 /* Sources */,
+				2806F3031FBD2B2600382557 /* Frameworks */,
+				2806F3041FBD2B2600382557 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				280EDFCE1FBD97B500244847 /* PBXTargetDependency */,
+				2806F3081FBD2B2600382557 /* PBXTargetDependency */,
 			);
 			name = "UIGesture高级手势Tests";
 			productName = "UIGesture高级手势Tests";
-			productReference = 280EDFCC1FBD97B500244847 /* UIGesture高级手势Tests.xctest */;
+			productReference = 2806F3061FBD2B2600382557 /* UIGesture高级手势Tests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		280EDFD61FBD97B500244847 /* UIGesture高级手势UITests */ = {
+		2806F3101FBD2B2600382557 /* UIGesture高级手势UITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 280EDFE61FBD97B500244847 /* Build configuration list for PBXNativeTarget "UIGesture高级手势UITests" */;
+			buildConfigurationList = 2806F3201FBD2B2600382557 /* Build configuration list for PBXNativeTarget "UIGesture高级手势UITests" */;
 			buildPhases = (
-				280EDFD31FBD97B500244847 /* Sources */,
-				280EDFD41FBD97B500244847 /* Frameworks */,
-				280EDFD51FBD97B500244847 /* Resources */,
+				2806F30D1FBD2B2600382557 /* Sources */,
+				2806F30E1FBD2B2600382557 /* Frameworks */,
+				2806F30F1FBD2B2600382557 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				280EDFD91FBD97B500244847 /* PBXTargetDependency */,
+				2806F3131FBD2B2600382557 /* PBXTargetDependency */,
 			);
 			name = "UIGesture高级手势UITests";
 			productName = "UIGesture高级手势UITests";
-			productReference = 280EDFD71FBD97B500244847 /* UIGesture高级手势UITests.xctest */;
+			productReference = 2806F3111FBD2B2600382557 /* UIGesture高级手势UITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		280EDFAC1FBD97B500244847 /* Project object */ = {
+		2806F2E61FBD2B2600382557 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0910;
-				ORGANIZATIONNAME = "王浩祯";
+				ORGANIZATIONNAME = Hades;
 				TargetAttributes = {
-					280EDFB31FBD97B500244847 = {
+					2806F2ED1FBD2B2600382557 = {
 						CreatedOnToolsVersion = 9.1;
 						ProvisioningStyle = Automatic;
 					};
-					280EDFCB1FBD97B500244847 = {
+					2806F3051FBD2B2600382557 = {
 						CreatedOnToolsVersion = 9.1;
 						ProvisioningStyle = Automatic;
-						TestTargetID = 280EDFB31FBD97B500244847;
+						TestTargetID = 2806F2ED1FBD2B2600382557;
 					};
-					280EDFD61FBD97B500244847 = {
+					2806F3101FBD2B2600382557 = {
 						CreatedOnToolsVersion = 9.1;
 						ProvisioningStyle = Automatic;
-						TestTargetID = 280EDFB31FBD97B500244847;
+						TestTargetID = 2806F2ED1FBD2B2600382557;
 					};
 				};
 			};
-			buildConfigurationList = 280EDFAF1FBD97B500244847 /* Build configuration list for PBXProject "UIGesture高级手势" */;
+			buildConfigurationList = 2806F2E91FBD2B2600382557 /* Build configuration list for PBXProject "UIGesture高级手势" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -224,38 +224,38 @@
 				en,
 				Base,
 			);
-			mainGroup = 280EDFAB1FBD97B500244847;
-			productRefGroup = 280EDFB51FBD97B500244847 /* Products */;
+			mainGroup = 2806F2E51FBD2B2600382557;
+			productRefGroup = 2806F2EF1FBD2B2600382557 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				280EDFB31FBD97B500244847 /* UIGesture高级手势 */,
-				280EDFCB1FBD97B500244847 /* UIGesture高级手势Tests */,
-				280EDFD61FBD97B500244847 /* UIGesture高级手势UITests */,
+				2806F2ED1FBD2B2600382557 /* UIGesture高级手势 */,
+				2806F3051FBD2B2600382557 /* UIGesture高级手势Tests */,
+				2806F3101FBD2B2600382557 /* UIGesture高级手势UITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		280EDFB21FBD97B500244847 /* Resources */ = {
+		2806F2EC1FBD2B2600382557 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				280EDFC41FBD97B500244847 /* LaunchScreen.storyboard in Resources */,
-				280EDFEA1FBDB66200244847 /* 1.png in Resources */,
-				280EDFC11FBD97B500244847 /* Assets.xcassets in Resources */,
-				280EDFBF1FBD97B500244847 /* Main.storyboard in Resources */,
+				2806F2FE1FBD2B2600382557 /* LaunchScreen.storyboard in Resources */,
+				2806F2FB1FBD2B2600382557 /* Assets.xcassets in Resources */,
+				2806F3241FBD2F4A00382557 /* 2.jpg in Resources */,
+				2806F2F91FBD2B2600382557 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		280EDFCA1FBD97B500244847 /* Resources */ = {
+		2806F3041FBD2B2600382557 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		280EDFD51FBD97B500244847 /* Resources */ = {
+		2806F30F1FBD2B2600382557 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -265,60 +265,60 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		280EDFB01FBD97B500244847 /* Sources */ = {
+		2806F2EA1FBD2B2600382557 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				280EDFBC1FBD97B500244847 /* ViewController.m in Sources */,
-				280EDFC71FBD97B500244847 /* main.m in Sources */,
-				280EDFB91FBD97B500244847 /* AppDelegate.m in Sources */,
+				2806F2F61FBD2B2600382557 /* ViewController.m in Sources */,
+				2806F3011FBD2B2600382557 /* main.m in Sources */,
+				2806F2F31FBD2B2600382557 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		280EDFC81FBD97B500244847 /* Sources */ = {
+		2806F3021FBD2B2600382557 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				280EDFD11FBD97B500244847 /* UIGesture____Tests.m in Sources */,
+				2806F30B1FBD2B2600382557 /* UIGesture____Tests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		280EDFD31FBD97B500244847 /* Sources */ = {
+		2806F30D1FBD2B2600382557 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				280EDFDC1FBD97B500244847 /* UIGesture____UITests.m in Sources */,
+				2806F3161FBD2B2600382557 /* UIGesture____UITests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		280EDFCE1FBD97B500244847 /* PBXTargetDependency */ = {
+		2806F3081FBD2B2600382557 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 280EDFB31FBD97B500244847 /* UIGesture高级手势 */;
-			targetProxy = 280EDFCD1FBD97B500244847 /* PBXContainerItemProxy */;
+			target = 2806F2ED1FBD2B2600382557 /* UIGesture高级手势 */;
+			targetProxy = 2806F3071FBD2B2600382557 /* PBXContainerItemProxy */;
 		};
-		280EDFD91FBD97B500244847 /* PBXTargetDependency */ = {
+		2806F3131FBD2B2600382557 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 280EDFB31FBD97B500244847 /* UIGesture高级手势 */;
-			targetProxy = 280EDFD81FBD97B500244847 /* PBXContainerItemProxy */;
+			target = 2806F2ED1FBD2B2600382557 /* UIGesture高级手势 */;
+			targetProxy = 2806F3121FBD2B2600382557 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		280EDFBD1FBD97B500244847 /* Main.storyboard */ = {
+		2806F2F71FBD2B2600382557 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				280EDFBE1FBD97B500244847 /* Base */,
+				2806F2F81FBD2B2600382557 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		280EDFC21FBD97B500244847 /* LaunchScreen.storyboard */ = {
+		2806F2FC1FBD2B2600382557 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				280EDFC31FBD97B500244847 /* Base */,
+				2806F2FD1FBD2B2600382557 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -326,7 +326,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		280EDFDE1FBD97B500244847 /* Debug */ = {
+		2806F3181FBD2B2600382557 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -381,7 +381,7 @@
 			};
 			name = Debug;
 		};
-		280EDFDF1FBD97B500244847 /* Release */ = {
+		2806F3191FBD2B2600382557 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -430,7 +430,7 @@
 			};
 			name = Release;
 		};
-		280EDFE11FBD97B500244847 /* Debug */ = {
+		2806F31B1FBD2B2600382557 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -444,7 +444,7 @@
 			};
 			name = Debug;
 		};
-		280EDFE21FBD97B500244847 /* Release */ = {
+		2806F31C1FBD2B2600382557 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -458,7 +458,7 @@
 			};
 			name = Release;
 		};
-		280EDFE41FBD97B500244847 /* Debug */ = {
+		2806F31E1FBD2B2600382557 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -466,14 +466,14 @@
 				DEVELOPMENT_TEAM = 89FKMN349J;
 				INFOPLIST_FILE = "UIGesture高级手势Tests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "hades.UIGesture----Tests";
+				PRODUCT_BUNDLE_IDENTIFIER = "whz.UIGesture----Tests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/UIGesture高级手势.app/UIGesture高级手势";
 			};
 			name = Debug;
 		};
-		280EDFE51FBD97B500244847 /* Release */ = {
+		2806F31F1FBD2B2600382557 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -481,35 +481,35 @@
 				DEVELOPMENT_TEAM = 89FKMN349J;
 				INFOPLIST_FILE = "UIGesture高级手势Tests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "hades.UIGesture----Tests";
+				PRODUCT_BUNDLE_IDENTIFIER = "whz.UIGesture----Tests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/UIGesture高级手势.app/UIGesture高级手势";
 			};
 			name = Release;
 		};
-		280EDFE71FBD97B500244847 /* Debug */ = {
+		2806F3211FBD2B2600382557 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 89FKMN349J;
 				INFOPLIST_FILE = "UIGesture高级手势UITests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "hades.UIGesture----UITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "whz.UIGesture----UITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = "UIGesture高级手势";
 			};
 			name = Debug;
 		};
-		280EDFE81FBD97B500244847 /* Release */ = {
+		2806F3221FBD2B2600382557 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 89FKMN349J;
 				INFOPLIST_FILE = "UIGesture高级手势UITests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "hades.UIGesture----UITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "whz.UIGesture----UITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = "UIGesture高级手势";
@@ -519,43 +519,43 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		280EDFAF1FBD97B500244847 /* Build configuration list for PBXProject "UIGesture高级手势" */ = {
+		2806F2E91FBD2B2600382557 /* Build configuration list for PBXProject "UIGesture高级手势" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				280EDFDE1FBD97B500244847 /* Debug */,
-				280EDFDF1FBD97B500244847 /* Release */,
+				2806F3181FBD2B2600382557 /* Debug */,
+				2806F3191FBD2B2600382557 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		280EDFE01FBD97B500244847 /* Build configuration list for PBXNativeTarget "UIGesture高级手势" */ = {
+		2806F31A1FBD2B2600382557 /* Build configuration list for PBXNativeTarget "UIGesture高级手势" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				280EDFE11FBD97B500244847 /* Debug */,
-				280EDFE21FBD97B500244847 /* Release */,
+				2806F31B1FBD2B2600382557 /* Debug */,
+				2806F31C1FBD2B2600382557 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		280EDFE31FBD97B500244847 /* Build configuration list for PBXNativeTarget "UIGesture高级手势Tests" */ = {
+		2806F31D1FBD2B2600382557 /* Build configuration list for PBXNativeTarget "UIGesture高级手势Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				280EDFE41FBD97B500244847 /* Debug */,
-				280EDFE51FBD97B500244847 /* Release */,
+				2806F31E1FBD2B2600382557 /* Debug */,
+				2806F31F1FBD2B2600382557 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		280EDFE61FBD97B500244847 /* Build configuration list for PBXNativeTarget "UIGesture高级手势UITests" */ = {
+		2806F3201FBD2B2600382557 /* Build configuration list for PBXNativeTarget "UIGesture高级手势UITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				280EDFE71FBD97B500244847 /* Debug */,
-				280EDFE81FBD97B500244847 /* Release */,
+				2806F3211FBD2B2600382557 /* Debug */,
+				2806F3221FBD2B2600382557 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 280EDFAC1FBD97B500244847 /* Project object */;
+	rootObject = 2806F2E61FBD2B2600382557 /* Project object */;
 }

@@ -18,7 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     
-    UIImage* image = [UIImage imageNamed:@"1.png"];
+    UIImage* image = [UIImage imageNamed:@"2.jpg"];
     
     UIImageView* iView = [[UIImageView alloc]initWithImage:image];
     
@@ -30,43 +30,13 @@
     [self.view addSubview:iView];
     
     //创建一个捏合手势
-    //P1：事件对象拥有者rrrrr
+    //P1：事件对象拥有者
     //P2：事件响应函数
     _pinchGes = [[UIPinchGestureRecognizer alloc]initWithTarget:self action:@selector(pinchAct:)];
     
     //将捏合手势添加到视图中
     [iView addGestureRecognizer:_pinchGes];
- 
-    //创建旋转手势
-    _rotGes = [[UIRotationGestureRecognizer alloc]initWithTarget:self action:@selector(rotAct:)];
-    
-    [iView addGestureRecognizer:_rotGes];
-    
-    //设置代理手势
-    _rotGes.delegate = self;
-    _pinchGes.delegate = self;
 }
-
-//是否可以同时响应两个手势
-//yes 可以响应
-//no 不可以响应
--(BOOL) gestureRecognizer:(UIGestureRecognizer *)gestureRecognizer shouldRecognizeSimultaneouslyWithGestureRecognizer:(UIGestureRecognizer *)otherGestureRecognizer
-{
-    return YES;
-    
-}
-
-
--(void)rotAct:(UIRotationGestureRecognizer*)rot
-{
-    UIImageView* iView = (UIImageView*)rot.view;
-    
-    //计算旋转的变换矩阵并且赋值
-    iView.transform = CGAffineTransformRotate(iView.transform,rot.rotation);
-    //选择角度清零
-    rot.rotation = 0;
-}
-
 //捏合手势事件函数
 //参数：捏合手势对象
 -(void)pinchAct:(UIPinchGestureRecognizer*)pinch
@@ -86,7 +56,7 @@
     //将缩放值归为单位制
     //scale = 1;原来的大小
     //scale < 1;缩小效果
-    //scale > 1:放大效果
+    //scale > 1:
     pinch.scale = 1;
 }
 

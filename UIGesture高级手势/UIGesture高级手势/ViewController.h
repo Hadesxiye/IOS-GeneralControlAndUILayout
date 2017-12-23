@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController<UIGestureRecognizerDelegate>
+@interface ViewController : UIViewController
 {
     //定义一个缩放手势，可以对视图进行放大缩小
     //pinch：捏合手势
